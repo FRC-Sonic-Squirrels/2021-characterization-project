@@ -22,7 +22,6 @@
     # for Falcon 500 user 8192 ( 4 * 2048)
     "encoderEPR": 8192,
     # Gearing accounts for the gearing between the encoder and the output shaft
-    # old wrong value 8.680555555
     "gearing": 10.0,
     # Encoder ports (leave empty "[]" if not needed)
     # Specifying encoder ports indicates you want to use Rio-side encoders
